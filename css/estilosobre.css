@@ -45,3 +45,8 @@ h1, h6 {
     text-align: center;
     font-size: 20px;
 }
+#pai{
+    padding: 10px;
+    border: 1px;
+    width: 100%;   
+}
